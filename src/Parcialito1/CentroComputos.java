@@ -35,7 +35,7 @@ public class CentroComputos {
     }
 
     public Tarea getTareaMaxMemReq() {
-        Tarea aux = new Tarea();
+        Tarea aux;
         aux = tareas[0];
         for (int i = 0; i < tareaCount; i++) {
             if (tareas[i].getMemReq() > aux.getMemReq()) {
