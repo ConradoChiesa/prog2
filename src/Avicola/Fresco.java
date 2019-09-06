@@ -25,6 +25,7 @@ public class Fresco extends Producto {
     }
 
     public String getEtiqueta() {
-        return origen;
+        return "Nombre: " + nombre + "\nFecha de vto: " + vto + "\nLote N°: " + lote +
+                "\nFecha de envase: " + envasado + "\nGranja de origen: " + origen;
     }
 }
