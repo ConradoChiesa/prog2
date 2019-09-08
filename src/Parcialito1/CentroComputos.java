@@ -3,14 +3,34 @@ package Parcialito1;
 public class CentroComputos {
     private final static int maxC = 10;
     private final static int maxT = 10;
-    private Computadora [] cpus = new Computadora[maxC];
-    private Tarea [] tareas = new Tarea[maxT];
-    private int cpuCount = 0;
-    private int tareaCount = 0;
+    private Computadora [] cpus;
+    private Tarea [] tareas;
+    private int cpuCount;
+    private int tareaCount;
 
-    public CentroComputos() {
-
+    public CentroComputos(int compu, int tarea) {
+        setCpuCount(compu);
+        setTareaCount(tarea);
+        cpus = new Computadora[maxC];
+        tareas = new Tarea[maxT];
     }
+
+    public void setCpus(Computadora[] cpus) {
+        this.cpus = cpus;
+    }
+
+    public void setTareas(Tarea[] tareas) {
+        this.tareas = tareas;
+    }
+
+    public void setCpuCount(int cpuCount) {
+        this.cpuCount = cpuCount;
+    }
+
+    public void setTareaCount(int tareaCount) {
+        this.tareaCount = tareaCount;
+    }
+
 
     public void addCpu(int vel, int memo) {
         if (cpuCount < maxC) {

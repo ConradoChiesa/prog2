@@ -23,7 +23,7 @@ public class Tarea {
         return memReq;
     }
 
-    public void setMemReq(int memReq) {
+    private void setMemReq(int memReq) {
         this.memReq = memReq;
     }
 
