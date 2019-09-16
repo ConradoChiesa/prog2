@@ -29,15 +29,15 @@ public class EmpleadoComision extends Empleado {
 
     @Override
     public String getPagoTotal() {
-        return "El pago total del empleado es de: $" + (super.getPagoSem() + calcComision());
+        return "El pago total del empleado es de: $" + (getPagoSem() + calcComision());
     }
 
     @Override
     public String detallePago() {
-        return "El sueldo Básico es de:" + (super.getPagoSem() + " y una comisión de " + calcComision());
+        return "El sueldo Básico es de:" + (getPagoSem() + " y una comisión de " + calcComision());
     }
 
     private double calcComision() {
-        return (this.porcentaje * this.totalVentas) / 100;
+        return (porcentaje * totalVentas) / 100;
     }
 }

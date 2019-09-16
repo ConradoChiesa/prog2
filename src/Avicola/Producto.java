@@ -5,26 +5,23 @@ public class Producto {
 
     String nombre;
     Date vto;
-
     int lote;
 
     public Producto(String n, Date vto, int lote) {
-        setNombre(n);
-        setVto(vto);
-        setLote(lote);
-    }
-
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
-
-    public void setVto(Date vto) {
+        this.nombre = n;
         this.vto = vto;
-    }
-
-    public void setLote(int lote) {
         this.lote = lote;
     }
-    
-    
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public Date getVto() {
+        return vto;
+    }
+
+    public int getLote() {
+        return lote;
+    }
 }

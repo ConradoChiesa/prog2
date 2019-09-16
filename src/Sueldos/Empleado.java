@@ -11,7 +11,7 @@ public abstract class Empleado {
         this.sueldoSem = sueldoSem;
     }
 
-    public double getPagoSem() { return this.sueldoSem; }
+    public double getPagoSem() { return sueldoSem; }
 
     public abstract String getPagoTotal();
 

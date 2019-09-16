@@ -8,27 +8,16 @@
       <change afterPath="$PROJECT_DIR$/src/CoopCereales/CoopCereales.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CoopCereales/Grano.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CoopCereales/Lote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sueldos/EmpleadoContrat.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Supermercado/Factura.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Supermercado/Supermercado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/prog2/Avicola/Congelado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog2/Avicola/Congelado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/prog2/Avicola/Fresco.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog2/Avicola/Fresco.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/prog2/Avicola/Producto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog2/Avicola/Producto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/prog2/Parcialito1/CentroComputos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog2/Parcialito1/CentroComputos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/prog2/Parcialito1/Simulador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog2/Parcialito1/Simulador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/prog2/Parcialito1/Tarea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog2/Parcialito1/Tarea.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Avicola/Congelado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Avicola/Congelado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Avicola/Fresco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Avicola/Fresco.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Avicola/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Avicola/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parcialito1/CentroComputos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parcialito1/CentroComputos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parcialito1/Simulador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parcialito1/Simulador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parcialito1/Tarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parcialito1/Tarea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SeleccionFutbol/Integrante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeleccionFutbol/Integrante.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sueldos/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sueldos/Empleado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sueldos/EmpleadoComision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sueldos/EmpleadoComision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sueldos/EmpleadoContrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sueldos/EmpleadoContrat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sueldos/EmpleadoHorasExtra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sueldos/EmpleadoHorasExtra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sueldos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sueldos/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,13 +61,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4760" />
+          <entry key="java" value="4774" />
           <entry key="txt" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4760" />
+          <entry key="JAVA" value="4774" />
           <entry key="PLAIN_TEXT" value="84" />
         </counts>
       </usages-collector>
@@ -95,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Sueldos/Empleado.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="153">
+              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -107,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sueldos/EmpleadoContrat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="136">
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
               <folding>
                 <element signature="e#111#112#0" expanded="true" />
                 <element signature="e#143#144#0" expanded="true" />
@@ -117,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sueldos/EmpleadoHorasExtra.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="26" column="77" selection-start-line="26" selection-start-column="77" selection-end-line="26" selection-end-column="77" />
+            <state relative-caret-position="75">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding>
                 <element signature="e#848#849#0" expanded="true" />
                 <element signature="e#892#893#0" expanded="true" />
@@ -133,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sueldos/EmpleadoComision.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="31" column="92" selection-start-line="31" selection-start-column="92" selection-end-line="31" selection-end-column="92" />
+            <state relative-caret-position="391">
+              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="13" />
               <folding>
                 <element signature="e#326#327#0" expanded="true" />
                 <element signature="e#360#361#0" expanded="true" />
@@ -144,6 +133,8 @@
                 <element signature="e#526#527#0" expanded="true" />
                 <element signature="e#577#578#0" expanded="true" />
                 <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#782#783#0" expanded="true" />
                 <element signature="e#913#914#0" expanded="true" />
                 <element signature="e#978#979#0" expanded="true" />
               </folding>
@@ -195,11 +186,11 @@
         <option value="$PROJECT_DIR$/src/CoopCereales/Grano.java" />
         <option value="$PROJECT_DIR$/src/CoopCereales/Lote.java" />
         <option value="$PROJECT_DIR$/src/Supermercado/Supermercado.java" />
-        <option value="$PROJECT_DIR$/src/Sueldos/Empleado.java" />
         <option value="$PROJECT_DIR$/src/Sueldos/Main.java" />
         <option value="$PROJECT_DIR$/src/Sueldos/EmpleadoContrat.java" />
         <option value="$PROJECT_DIR$/src/Sueldos/EmpleadoComision.java" />
         <option value="$PROJECT_DIR$/src/Sueldos/EmpleadoHorasExtra.java" />
+        <option value="$PROJECT_DIR$/src/Sueldos/Empleado.java" />
       </list>
     </option>
   </component>
@@ -241,12 +232,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="CoopCereales" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="tp03" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prog2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Sueldos" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -258,7 +243,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568658370227" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568660828513" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -343,7 +328,7 @@
       <workItem from="1568327307269" duration="599000" />
       <workItem from="1568381959426" duration="9000" />
       <workItem from="1568560778334" duration="3941000" />
-      <workItem from="1568567784298" duration="13376000" />
+      <workItem from="1568567784298" duration="15399000" />
     </task>
     <task id="LOCAL-00001" summary="Acomodando un error.">
       <created>1567756212717</created>
@@ -359,17 +344,24 @@
       <option name="project" value="LOCAL" />
       <updated>1568568989443</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="TP04 Ejercicio 1 completo.">
+      <created>1568658484301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568658484301</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61133000" />
+    <option name="totallyTimeSpent" value="63156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="0" width="1600" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10875161" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10875161" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -378,7 +370,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32814527" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32814527" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,7 +430,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Acomodando un error." />
     <MESSAGE value="Primeros pasos en clases abstractas." />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeros pasos en clases abstractas." />
+    <MESSAGE value="TP04 Ejercicio 1 completo." />
+    <option name="LAST_COMMIT_MESSAGE" value="TP04 Ejercicio 1 completo." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/prog2.iml">
@@ -598,43 +591,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sueldos/Empleado.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sueldos/EmpleadoContrat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sueldos/EmpleadoComision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="31" column="92" selection-start-line="31" selection-start-column="92" selection-end-line="31" selection-end-column="92" />
-          <folding>
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#978#979#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sueldos/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -644,12 +600,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sueldos/EmpleadoHorasExtra.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="26" column="77" selection-start-line="26" selection-start-column="77" selection-end-line="26" selection-end-column="77" />
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding>
             <element signature="e#848#849#0" expanded="true" />
             <element signature="e#892#893#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sueldos/EmpleadoComision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#978#979#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sueldos/EmpleadoContrat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sueldos/Empleado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
         </state>
       </provider>
     </entry>

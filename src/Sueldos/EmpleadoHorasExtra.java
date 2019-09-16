@@ -2,8 +2,8 @@ package Sueldos;
 
 public class EmpleadoHorasExtra extends Empleado {
 
-    int horasExtra;
-    float monto;
+    private int horasExtra;
+    private float monto;
 
     public EmpleadoHorasExtra(float sueldoSem, float monto, int horasExtra) {
         super(sueldoSem);
@@ -17,17 +17,19 @@ public class EmpleadoHorasExtra extends Empleado {
 
     public void setMonto(float monto) { this.monto = monto; }
 
+
+
     @Override
     public String getPagoTotal() {
-        return "El pago total del empleado es de: $" + (super.getPagoSem() + (this.horasExtra * this.monto));
+        return "El pago total del empleado es de: $" + (getPagoSem() + (horasExtra * monto));
     }
 
     @Override
     public String detallePago() {
-        return "El sueldo Básico es de: $" + super.getPagoSem() + " y cobra $" + getTotalPagoHorasE() + " por horas extra";
+        return "El sueldo Básico es de: $" + getPagoSem() + " y cobra $" + getTotalPagoHorasE() + " por horas extra";
     }
 
     public double getTotalPagoHorasE() {
-        return this.horasExtra * this.monto;
+        return horasExtra * monto;
     }
 }

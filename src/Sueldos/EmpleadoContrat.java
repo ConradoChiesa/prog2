@@ -7,11 +7,11 @@ public class EmpleadoContrat extends Empleado {
 
     @Override
     public String getPagoTotal() {
-        return "Pago total semanal: $" + (this.getPagoSem());
+        return "Pago total semanal: $" + (getPagoSem());
     }
 
     @Override
     public String detallePago() {
-        return "Salario semanal: $" + (this.getPagoSem());
+        return "Salario semanal: $" + (getPagoSem());
     }
 }

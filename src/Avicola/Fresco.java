@@ -8,8 +8,8 @@ public class Fresco extends Producto {
 
     public Fresco(String n, Date vto, int lote, Date envasado, String origen) {
         super(n,vto,lote);
-        setEnvasado(envasado);
-        setOrigen(origen);
+        this.envasado = envasado;
+        this.origen = origen;
     }
 
     public void setEnvasado(Date envasado) {
@@ -20,12 +20,12 @@ public class Fresco extends Producto {
         this.origen = origen;
     }
 
-    public Date getEnvasado() {
+    public Date getEnvasadoDate() {
         return envasado;
     }
 
     public String getEtiqueta() {
-        return "Nombre: " + nombre + "\nFecha de vto: " + vto + "\nLote N°: " + lote +
-                "\nFecha de envase: " + envasado + "\nGranja de origen: " + origen;
+        return "Nombre: " + this.nombre + "\nFecha de vto: " + this.vto + "\nLote N°: " + this.lote +
+                "\nFecha de envase: " + this.envasado + "\nGranja de origen: " + this.origen;
     }
 }
