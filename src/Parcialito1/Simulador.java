@@ -3,7 +3,7 @@ package Parcialito1;
 public class Simulador {
 
     public static void main(String[] args) {
-        CentroComputos c1 = new CentroComputos();
+        CentroComputos c1 = new CentroComputos(5, 5);
         c1.addCpu(5,2);
         c1.addCpu(4,4);
         c1.addCpu(12,2);

@@ -5,7 +5,7 @@ public class Tarea {
     private int memReq;
     private boolean ejecutada;
 
-    public Tarea() {
+    public Tarea(String nombre, int memReq) {
         setNombre(nombre);
         setMemReq(memReq);
         setEjecutada(false);

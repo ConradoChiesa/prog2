@@ -1,11 +1,14 @@
 package SeleccionFutbol;
 
 import java.util.Date;
+import java.util.Vector;
 
 public class Integrante {
     String nombre, apellido;
     int pasaporte;
     Date fchNac;
+
+    Vector<Boolean> estados = new Vector<Boolean>();
 
     public Integrante (String n, String a, int pas, Date fn) {
         setNombre(n);

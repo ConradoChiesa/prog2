@@ -9,8 +9,6 @@ public class CentroComputos {
     private int tareaCount;
 
     public CentroComputos(int compu, int tarea) {
-        setCpuCount(compu);
-        setTareaCount(tarea);
         cpus = new Computadora[maxC];
         tareas = new Tarea[maxT];
     }
@@ -33,33 +31,31 @@ public class CentroComputos {
 
 
     public void addCpu(int vel, int memo) {
-        if (cpuCount < maxC) {
-            cpus[cpuCount] = new Computadora(vel, memo);
+        if (this.cpuCount < maxC) {
+            this.cpus[cpuCount] = new Computadora(vel, memo);
             cpuCount++;
         }
     }
 
     public void addTarea(String nombre, int memReq) {
-        if (tareaCount < maxT) {
-            tareas[tareaCount] = new Tarea();
-            tareaCount++;
+        if (this.tareaCount < maxT) {
+            this.tareas[tareaCount] = new Tarea(nombre, memReq);
+            this.tareaCount++;
         }
     }
 
-    public int getNumCpus() {
-        return cpuCount;
-    }
+    public int getNumCpus() { return this.cpuCount; }
 
     public int getNumtareas() {
-        return tareaCount;
+        return this.tareaCount;
     }
 
     public Tarea getTareaMaxMemReq() {
         Tarea aux;
-        aux = tareas[0];
-        for (int i = 0; i < tareaCount; i++) {
-            if (tareas[i].getMemReq() > aux.getMemReq()) {
-                aux = tareas[i];
+        aux = this.tareas[0];
+        for (int i = 0; i < this.tareaCount; i++) {
+            if (this.tareas[i].getMemReq() > aux.getMemReq()) {
+                aux = this.tareas[i];
             }
         }
         return aux;

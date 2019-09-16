@@ -2,19 +2,42 @@ package Sueldos;
 
 public class EmpleadoComision extends Empleado {
 
-    double comisiones;
+    float totalVentas;
+    double porcentaje;
 
-    public EmpleadoComision(double sueldo, double comisiones) {
+    public EmpleadoComision(double sueldo, float totalVentas, double porcentaje) {
         super(sueldo);
-        setComision(comisiones);
+        this.totalVentas = totalVentas;
+        this.porcentaje = porcentaje;
     }
 
-    public void setComision(double comisiones) {
-        this.comisiones = comisiones;
+    public float getTotalVentas() {
+        return totalVentas;
+    }
+
+    public void setTotalVentas(float totalVentas) {
+        this.totalVentas = totalVentas;
+    }
+
+    public double getPorcentaje() {
+        return porcentaje;
+    }
+
+    public void setPorcentaje(float porcentaje) {
+        this.porcentaje = porcentaje;
     }
 
     @Override
-    public double getPago(double sueldoSem) {
-        return super.getPago(sueldoSem) + comisiones;
+    public String getPagoTotal() {
+        return "El pago total del empleado es de: $" + (super.getPagoSem() + calcComision());
+    }
+
+    @Override
+    public String detallePago() {
+        return "El sueldo Básico es de:" + (super.getPagoSem() + " y una comisión de " + calcComision());
+    }
+
+    private double calcComision() {
+        return (this.porcentaje * this.totalVentas) / 100;
     }
 }
