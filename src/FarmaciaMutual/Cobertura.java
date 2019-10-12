@@ -1,5 +1,3 @@
 package FarmaciaMutual;
 
-public interface Cobertura {
-    int getCobertura();
-}
+public interface Cobertura { int getCobertura(); }

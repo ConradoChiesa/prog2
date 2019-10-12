@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d7a415d-4da9-4fd8-9447-0177097e8125" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoopCereales/Pastura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Escuela/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Escuela/Aula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Escuela/Constantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Escuela/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Escuela/Profesor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Escuela/Sueltos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FarmaciaMutual/Cobertura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FarmaciaMutual/Farmacia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FarmaciaMutual/Medicamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FarmaciaMutual/Paciente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoopCereales/CoopCereales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoopCereales/CoopCereales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoopCereales/Grano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoopCereales/Cereal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoopCereales/Lote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoopCereales/Lote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FarmaciaMutual/Cobertura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FarmaciaMutual/Cobertura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FarmaciaMutual/Farmacia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FarmaciaMutual/Farmacia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FarmaciaMutual/Medicamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FarmaciaMutual/Medicamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FarmaciaMutual/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FarmaciaMutual/Paciente.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,13 +23,14 @@
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="5" />
+          <entry key="project.open.time.21" value="6" />
           <entry key="project.open.time.22" value="3" />
           <entry key="project.open.time.23" value="2" />
-          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.27" value="3" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.35" value="1" />
@@ -48,7 +38,7 @@
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.69" value="1" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -68,13 +58,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="7913" />
+          <entry key="java" value="8462" />
           <entry key="txt" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7913" />
+          <entry key="JAVA" value="8462" />
           <entry key="PLAIN_TEXT" value="98" />
         </counts>
       </usages-collector>
@@ -82,11 +72,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FarmaciaMutual/Farmacia.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,17 +89,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FarmaciaMutual/Medicamento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="37" column="50" lean-forward="true" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+            <state relative-caret-position="345">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FarmaciaMutual/Paciente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="32" selection-start-line="32" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="685">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1310#1311#0" expanded="true" />
+                <element signature="e#1341#1342#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,23 +122,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CoopCereales/Lote.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="27" selection-start-line="2" selection-end-line="3" />
-              <folding>
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FarmaciaMutual/Cobertura.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -155,6 +145,8 @@
       <find>System\.out\.println\(\&quot;Sueldo empleado 1\: \&quot; \+ e1\.getPago\(\)\)\;\n     |   System\.out\.println\(\&quot;Sueldo empleado 1\: \&quot; \+ e1\.getPago\(\)\)\;\n</find>
       <find>\/\/    Empleado e1 \= new EmpleadoComision\(10000\,10000\)\;\n    \/\/    Empleado e2 \= new EmpleadoHorasExtra\(10000\, 10\)\;\n\n\n    \/\/    System\.out\.println\(\&quot;Sueldo empleado 1\: \&quot; \+ e1\.getPago\(\)\)\;\n    \/\/    |  \/\/    Empleado e1 \= new EmpleadoComision\(10000\,10000\)\;\n    \/\/    Empleado e2 \= new EmpleadoHorasExtra\(10000\, 10\)\;\n\n\n    \/\/    System\.out\.println\(\&quot;Sueldo empleado 1\: \&quot; \+ e1\.getPago\(\)\)\;\n    \/\/</find>
       <find>cantPorVentas</find>
+      <find>if|if|if|if</find>
+      <find>if|if</find>
     </findStrings>
     <replaceStrings>
       <replace>totalVentas</replace>
@@ -202,10 +194,10 @@
         <option value="$PROJECT_DIR$/src/FarmaciaMutual/PacienteSinCobertura.java" />
         <option value="$PROJECT_DIR$/src/FarmaciaMutual/cobertura.java" />
         <option value="$PROJECT_DIR$/src/FarmaciaMutual/PacienteObraSocial.java" />
-        <option value="$PROJECT_DIR$/src/FarmaciaMutual/Farmacia.java" />
         <option value="$PROJECT_DIR$/src/FarmaciaMutual/Cobertura.java" />
-        <option value="$PROJECT_DIR$/src/FarmaciaMutual/Medicamento.java" />
         <option value="$PROJECT_DIR$/src/FarmaciaMutual/Paciente.java" />
+        <option value="$PROJECT_DIR$/src/FarmaciaMutual/Medicamento.java" />
+        <option value="$PROJECT_DIR$/src/FarmaciaMutual/Farmacia.java" />
       </list>
     </option>
   </component>
@@ -216,10 +208,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="425" />
-    <option name="y" value="184" />
-    <option name="width" value="906" />
-    <option name="height" value="488" />
+    <option name="x" value="1798" />
+    <option name="width" value="896" />
+    <option name="height" value="487" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -229,6 +220,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,25 +235,10 @@
               <item name="prog2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="tp03" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prog2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="CoopCereales" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tp03" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prog2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FarmaciaMutual" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -383,7 +362,10 @@
       <workItem from="1570703362367" duration="1268000" />
       <workItem from="1570713825735" duration="8101000" />
       <workItem from="1570734435808" duration="2682000" />
-      <workItem from="1570797249718" duration="1386000" />
+      <workItem from="1570797249718" duration="4388000" />
+      <workItem from="1570812405803" duration="4355000" />
+      <workItem from="1570846080718" duration="3179000" />
+      <workItem from="1570909838525" duration="4747000" />
     </task>
     <task id="LOCAL-00001" summary="Acomodando un error.">
       <created>1567756212717</created>
@@ -417,14 +399,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97626000" />
+    <option name="totallyTimeSpent" value="112909000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="738" extended-state="6" />
+    <frame x="1366" y="0" width="1600" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16287878" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4993515" visible="true" weight="0.09395109" />
+      <window_info id="Structure" order="1" sideWeight="0.5006485" side_tool="true" weight="0.09395109" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -756,20 +738,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FarmaciaMutual/PacienteSinCobertura.java" />
     <entry file="file://$PROJECT_DIR$/src/FarmaciaMutual/PacienteObraSocial.java" />
-    <entry file="file://$PROJECT_DIR$/src/FarmaciaMutual/Farmacia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CoopCereales/CoopCereales.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CoopCereales/Lote.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -781,24 +749,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FarmaciaMutual/Cobertura.java">
+    <entry file="file://$PROJECT_DIR$/src/CoopCereales/CoopCereales.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FarmaciaMutual/Medicamento.java">
+    <entry file="file://$PROJECT_DIR$/src/FarmaciaMutual/Cobertura.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="37" column="50" lean-forward="true" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FarmaciaMutual/Paciente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="32" selection-start-line="32" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="685">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1310#1311#0" expanded="true" />
+            <element signature="e#1341#1342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FarmaciaMutual/Medicamento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FarmaciaMutual/Farmacia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
