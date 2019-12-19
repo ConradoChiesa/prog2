@@ -1,7 +1,6 @@
 package final2019;
 
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.Set;
 
 public class Compuesto extends Medicamento {
@@ -47,7 +46,7 @@ public class Compuesto extends Medicamento {
 
         for (Medicamento m :
                 medicamentos) {
-            aux = aux +" " + m.getNombre();
+            aux = aux + " " + m.getNombre();
         }
         return aux;
     }
@@ -62,5 +61,15 @@ public class Compuesto extends Medicamento {
                 precio += getPrecio();
         }
         return precio;
+    }
+
+    public Set<Medicamento> getMedicamentos() {
+        return medicamentos;
+    }
+
+    public boolean setMedicamentos(Medicamento medicamento) {
+        if (this.medicamentos.add(medicamento))
+            return true;
+        else return false;
     }
 }

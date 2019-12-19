@@ -82,5 +82,6 @@ public class Simulador {
 
         System.out.println(m1.getCantVotos());
         System.out.println(tandil.getPorcentajeVotos(fernandez));
+        System.out.println(tandil.getCantVotos());
     }
 }
